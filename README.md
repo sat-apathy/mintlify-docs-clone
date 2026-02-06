@@ -1,5 +1,7 @@
 # Mintlify Documentation Website Clone
 
+Live link: https://sat-apathy.github.io/mintlify-docs-clone/
+
 This project is a desktop-first documentation-style website inspired by the Mintlify documentation platform.  
 It is built using only HTML and CSS, with a focus on layout structure, readability, and visual hierarchy.
 
