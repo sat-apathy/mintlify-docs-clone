@@ -69,3 +69,9 @@ mintlify-docs-clone/
 ├── README.md
 ├── images/
 └── logos/
+```
+
+## What's Next
+- Cleaner HTML with comments
+- Better CSS
+
