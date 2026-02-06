@@ -1,0 +1,71 @@
+# Mintlify Documentation Website Clone
+
+This project is a desktop-first documentation-style website inspired by the Mintlify documentation platform.  
+It is built using only HTML and CSS, with a focus on layout structure, readability, and visual hierarchy.
+
+---
+
+## 📌 Project Overview
+
+The goal of this assignment was to recreate the overall structure and feel of a modern documentation website, similar to Mintlify, while strictly following the given constraints.
+
+- Desktop-first layout
+- No JavaScript
+- No CSS frameworks
+- No animations or fancy effects
+
+---
+
+## 🧱 Sections Recreated
+
+The following sections were implemented as part of the assignment:
+
+1. Top Navigation Bar  
+2. Hero Section with headline, description, and CTA  
+3. Documentation Preview Section with sidebar navigation  
+4. Trusted By / Company Logos section  
+5. Feature Highlights section  
+6. Intelligent Assistant / UI Preview section  
+7. Enterprise Features section  
+8. Case Studies / Customer Stories section  
+9. Final Call-To-Action section  
+10. Footer with multi-column links  
+
+All sections follow a clean and readable layout inspired by documentation platforms.
+
+---
+
+## 🎨 Fonts and Colors
+
+### Font
+- **Inter** (with system font fallbacks)
+
+### Color Palette
+- Primary Accent: `#6366f1`
+- Main Text: `#0f172a`
+- Muted Text: `#475569`
+- Light Background: `#f9fafb`
+- Borders: `#e5e7eb`
+
+The colors and typography were chosen to closely resemble a modern documentation UI.
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+
+No JavaScript or external frameworks were used.
+
+---
+
+## 📂 Folder Structure
+
+```txt
+mintlify-docs-clone/
+├── index.html
+├── style.css
+├── README.md
+├── images/
+└── logos/
